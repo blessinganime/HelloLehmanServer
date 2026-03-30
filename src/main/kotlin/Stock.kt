@@ -1,2 +1,1 @@
-class Stock {
-}
+data class Stock(val symbol: String, val price: Double)
